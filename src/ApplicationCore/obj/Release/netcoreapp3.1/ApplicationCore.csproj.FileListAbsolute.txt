@@ -1,0 +1,8 @@
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\bin\Release\netcoreapp3.1\ApplicationCore.deps.json
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\bin\Release\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\bin\Release\netcoreapp3.1\ApplicationCore.pdb
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.pdb

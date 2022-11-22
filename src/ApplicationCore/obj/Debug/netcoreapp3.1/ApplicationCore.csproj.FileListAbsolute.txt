@@ -1,0 +1,38 @@
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb

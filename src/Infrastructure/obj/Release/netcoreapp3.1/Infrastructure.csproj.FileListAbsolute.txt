@@ -1,0 +1,11 @@
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.deps.json
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.dll
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.pdb
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Release\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Release\netcoreapp3.1\ApplicationCore.pdb
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.dll
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.pdb

@@ -1,0 +1,50 @@
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\pvao\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\OFAS\PVAO-API\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERC.OFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
