@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj": {}
+    "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\Vernie Namca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

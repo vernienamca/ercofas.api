@@ -49,7 +49,7 @@ namespace ERCOFAS.ApplicationCore.Services
                 RoleName = roleDTO.RoleName,
                 Description = roleDTO.Description,
                 CreatedBy = roleDTO.CreatedBy,
-                DateCreated = roleDTO.DateCreated
+                DateCreated = DateTime.Now
             };
 
             try

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj": {}
+    "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\Vernie Namca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Vernie Namca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,8 +114,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj": {
+    "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj",
+        "projectUniqueName": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj",
         "projectName": "InfrastructureTests",
-        "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj",
+        "projectPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj",
         "packagesPath": "C:\\Users\\Vernie Namca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\UnitTests\\InfrastructureTests\\obj\\",
+        "outputPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\UnitTests\\InfrastructureTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -191,11 +191,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\My Files\\BusyBee\\Projects\\ERCOFAS\\ERCOFAS.Api\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\ERCOFAS\\ercofas.api\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

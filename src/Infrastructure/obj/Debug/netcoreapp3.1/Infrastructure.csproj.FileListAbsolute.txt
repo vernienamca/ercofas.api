@@ -48,3 +48,16 @@ C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\
 C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
 C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Vernie Namca\Desktop\My Files\BusyBee\Projects\ERCOFAS\ERCOFAS.Api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

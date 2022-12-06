@@ -9,3 +9,16 @@ D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastru
 D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csproj.CopyComplete
 D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.dll
 D:\Projects\pvao\PVAO-API\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.deps.json
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.dll
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Release\netcoreapp3.1\ApplicationCore.dll
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\bin\Release\netcoreapp3.1\ApplicationCore.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.dll
+C:\Projects\ERCOFAS\ercofas.api\src\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.pdb

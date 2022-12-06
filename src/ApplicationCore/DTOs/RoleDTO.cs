@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ERCOFAS.ApplicationCore.Entities.Security;
+using System;
 using System.Text.Json.Serialization;
 
 namespace ERCOFAS.ApplicationCore.DTOs
@@ -54,13 +55,5 @@ namespace ERCOFAS.ApplicationCore.DTOs
         /// The date updated.
         /// </value>
         public DateTime? DateUpdated { get; set; }
-        /// <summary>
-        /// Gets or sets the out role.
-        /// </summary>
-        /// <value>
-        /// The out role.
-        /// </value>
-        [JsonIgnore]
-        public RoleDTO OutRole { get; set; }
     }
 }

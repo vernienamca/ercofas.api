@@ -6,3 +6,13 @@ D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\Applicat
 D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
 D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.dll
 D:\Projects\pvao\PVAO-API\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\bin\Release\netcoreapp3.1\ApplicationCore.deps.json
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\bin\Release\netcoreapp3.1\ApplicationCore.dll
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\bin\Release\netcoreapp3.1\ApplicationCore.pdb
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.csproj.AssemblyReference.cache
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.dll
+C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Release\netcoreapp3.1\ApplicationCore.pdb
