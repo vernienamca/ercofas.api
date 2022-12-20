@@ -29,5 +29,11 @@ namespace ERCOFAS.ApplicationCore.Interfaces
         /// <param name="role">The role entity.</param>
         /// <returns></returns>
         Task<Role> Update(Role role);
+        /// <summary>
+        /// Deletes the role asynchronous.
+        /// </summary>
+        /// <param name="role">The role entity.</param>
+        /// <returns></returns>
+        Task Delete(Role role);
     }
 }

@@ -20,9 +20,9 @@ namespace ERCOFAS.ApplicationCore.Services
         #region Constructor
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="RoleRepository"/> class.
+        /// Initializes a new instance of the <see cref="RoleService"/> class.
         /// </summary>
-        /// <param name="context">The database context.</param>
+        /// <param name="repository">The role repository.</param>
         public RoleService(IRoleRepository repository)
         {
             _repository = repository;
@@ -48,7 +48,7 @@ namespace ERCOFAS.ApplicationCore.Services
             {
                 RoleName = roleDTO.RoleName,
                 Description = roleDTO.Description,
-                CreatedBy = roleDTO.CreatedBy,
+                CreatedBy = 1,
                 DateCreated = DateTime.Now
             };
 
@@ -67,10 +67,15 @@ namespace ERCOFAS.ApplicationCore.Services
             var role = _repository.GetById(roleDTO.Id).Result;
             role.RoleName = roleDTO.RoleName;
             role.Description = roleDTO.Description;
-            role.UpdatedBy = roleDTO.UpdatedBy;
-            role.DateUpdated = roleDTO.DateUpdated;
+            role.UpdatedBy = 1;
+            role.DateUpdated = DateTime.Now;
 
             return await _repository.Update(role);
+        }
+
+        public async Task Delete(Role role)
+        {
+            await _repository.Delete(role);
         }
 
         #endregion Public

@@ -43,6 +43,11 @@ namespace ERCOFAS.Api.Infrastructure.Data
             return await UpdateAsync(role);
         }
 
+        public Task Delete(Role role)
+        {
+            return DeleteAsync(role);
+        }
+
         #endregion Public
     }
 }

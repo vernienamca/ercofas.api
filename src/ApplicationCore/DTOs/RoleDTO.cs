@@ -10,7 +10,7 @@ namespace ERCOFAS.ApplicationCore.DTOs
         /// Gets or sets the role identifier.
         /// </summary>
         /// <value>
-        /// The settings identifier.
+        /// The role identifier.
         /// </value>
         public int Id { get; set; }
         /// <summary>

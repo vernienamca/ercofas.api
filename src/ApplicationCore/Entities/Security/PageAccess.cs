@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace ERCOFAS.ApplicationCore.Entities.Structure
+namespace ERCOFAS.ApplicationCore.Entities.Security
 {
-    public class PageAccess
+    public class PageAccess : BaseEntity<int>
     {
         [DataMember]
         public int Id { get; set; }

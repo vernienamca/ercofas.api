@@ -11,5 +11,6 @@ namespace ERCOFAS.ApplicationCore.Interfaces
         Task<Role> GetById(int id);
         Task<Role> Add(RoleDTO roleDTO);
         Task<Role> Update(RoleDTO roleDTO);
+        Task Delete(Role role);
     }
 }

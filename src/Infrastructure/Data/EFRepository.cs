@@ -90,6 +90,17 @@ namespace ERCOFAS.Infrastructure.Data
             await _context.SaveChangesAsync();
         }
 
+        /// <summary>
+        /// Deletes multiple records from a database obtained by the context. Async version
+        /// </summary>
+        /// <param name="entity">The entity type.</param>
+        /// <returns></returns>
+        public async Task DeleteRangeAsync(List<EntityType> entity)
+        {
+            _context.Set<EntityType>().RemoveRange(entity);
+            await _context.SaveChangesAsync();
+        }
+
         #endregion Public
     }
 }

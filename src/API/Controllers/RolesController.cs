@@ -22,7 +22,8 @@ namespace ERCOFAS.Api.Controllers
     {
         #region Variables
 
-        private readonly IRoleService _service;
+        private readonly IRoleService _roleService;
+        private readonly IManageRoleService _manageRoleService;
 
         #endregion Variables
 
@@ -30,12 +31,15 @@ namespace ERCOFAS.Api.Controllers
 
         /// <summary>
         /// Initializes a new instance of the <see cref="RolesController"/> class.
-        /// <param name="service">The role service.</param>
+        /// <param name="roleService">The role service.</param>
+        /// <param name="manageRoleService">The manage role service.</param>
         /// </summary>
-        public RolesController(IRoleService service)
+        public RolesController(IRoleService roleService, IManageRoleService manageRoleService)
         {
-            _service = service;
+            _roleService = roleService;
+            _manageRoleService = manageRoleService;
         }
+
         #endregion Constructor
 
         #region Post
@@ -52,7 +56,7 @@ namespace ERCOFAS.Api.Controllers
             if (data == null)
                 throw new ArgumentNullException(nameof(data));
 
-            var role = await _service.Add(data);
+            var role = await _roleService.Add(data);
 
             return Ok(role);
         }
@@ -73,12 +77,29 @@ namespace ERCOFAS.Api.Controllers
             if (data == null)
                 throw new ArgumentNullException(nameof(data));
 
-            var role = await _service.Update(data);
+            var role = await _roleService.Update(data);
 
             return Ok(role);
         }
 
         #endregion Put
+
+        #region Get
+
+        /// <summary>
+        /// Gets the role by identifier.
+        /// </summary>
+        /// <param name="id">The role identifier.</param>
+        /// <returns></returns>
+        [HttpGet("{id:int}")]
+        public async Task<IActionResult> GetRoleById(int id)
+        {
+            var entity = await _roleService.GetById(id);
+
+            return Ok(entity);
+        }
+
+        #endregion Get
 
         #region List
 
@@ -89,7 +110,7 @@ namespace ERCOFAS.Api.Controllers
         [HttpGet("lists")]
         public async Task<IActionResult> GetListRolesAsync([FromQuery] string searchValue = "", int currentPage = 1, int pageSize = 10)
         {
-            IQueryable<Role> result = _service.Get();
+            IQueryable<Role> result = _roleService.Get();
 
             if (!string.IsNullOrEmpty(searchValue))
                 result = result.Where(x => x.RoleName.ToLower().Contains(searchValue.ToLower()) || x.Description.ToLower().Contains(searchValue.ToLower()));
@@ -120,5 +141,30 @@ namespace ERCOFAS.Api.Controllers
         }
 
         #endregion List
+
+        #region Delete        
+
+        /// <summary>
+        /// Deletes the role.
+        /// </summary>
+        /// <param name="id">The role identifier.</param>
+        /// <returns></returns>
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> DeleteRoleAsync(int id)
+        {
+            IQueryable<PageAccess> manageRoles = _manageRoleService.List();
+            bool isUsed = manageRoles.Any(x => x.RoleId == id);
+
+            if (!isUsed)
+            {
+                var entity = await _roleService.GetById(id);
+
+                await _roleService.Delete(entity);
+            }
+
+            return Ok(isUsed);
+        }
+
+        #endregion Delete  
     }
 }

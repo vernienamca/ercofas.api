@@ -3,10 +3,16 @@ using System.Runtime.Serialization;
 
 namespace ERCOFAS.ApplicationCore.Entities.Security
 {
-    public class User : BaseEntity<int>
+    public class User : BaseEntity<long>
     {
         [DataMember]
-        public int Id { get; set; }
+        public long Id { get; set; }
+
+        [DataMember]
+        public long RegistrationId { get; set; }
+
+        [DataMember]
+        public long UserStatusId { get; set; }
 
         [DataMember]
         public string LastName { get; set; }
@@ -15,34 +21,16 @@ namespace ERCOFAS.ApplicationCore.Entities.Security
         public string FirstName { get; set; }
 
         [DataMember]
-        public string UserName { get; set; }
-
-        [DataMember]
-        public string Password { get; set; }
-
-        [DataMember]
         public string EmailAddress { get; set; }
 
         [DataMember]
-        public string PhoneNumber { get; set; }
-
-        [DataMember]
-        public string Address { get; set; }
-
-        [DataMember]
-        public int UserStatus { get; set; }
+        public string Password { get; set; }
 
         [DataMember]
         public string AvatarUrl { get; set; }
 
         [DataMember]
         public int SignOnAttempts { get; set; }
-
-        [DataMember]
-        public bool LoggedIn { get; set; }
-
-        [DataMember]
-        public DateTime ExpirationDate { get; set; }
 
         [DataMember]
         public string PasswordToken { get; set; }

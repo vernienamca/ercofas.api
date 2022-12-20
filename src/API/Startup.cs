@@ -57,9 +57,22 @@ namespace ERCOFAS.Api
 
             services.AddScoped(typeof(ISettingsRepository), typeof(SettingsRepository));
             services.AddScoped(typeof(IRoleRepository), typeof(RoleRepository));
+            services.AddScoped(typeof(IPageRepository), typeof(PageRepository));
+            services.AddScoped(typeof(IManageRoleRepository), typeof(ManageRoleRepository));
+            services.AddScoped(typeof(IRERClassificationRepository), typeof(RERClassificationRepository));
+            services.AddScoped(typeof(IRequirementsRepository), typeof(RequirementsRepository));
+            services.AddScoped(typeof(IDocumentsNeededRepository), typeof(DocumentsNeededRepository));
+            services.AddScoped(typeof(ICaseNatureRepository), typeof(CaseNatureRepository));
+            services.AddScoped(typeof(ICaseTypeRepository), typeof(CaseTypeRepository));
+            services.AddScoped(typeof(IPreFilingRequestRepository), typeof(PreFilingRequestRepository));
 
             services.AddScoped(typeof(ISettingsService), typeof(SettingsService));
             services.AddScoped(typeof(IRoleService), typeof(RoleService));
+            services.AddScoped(typeof(IPageService), typeof(PageService));
+            services.AddScoped(typeof(IManageRoleService), typeof(ManageRoleService));
+            services.AddScoped(typeof(IRERClassificationService), typeof(RERClassificationService));
+            services.AddScoped(typeof(IDocumentsNeededService), typeof(DocumentsNeededService));
+            services.AddScoped(typeof(IPreFilingRequestService), typeof(PreFilingRequestService));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

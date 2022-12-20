@@ -9,5 +9,6 @@ namespace ERCOFAS.ApplicationCore.Interfaces
         Task<EntityType> AddAsync(EntityType entity);
         Task<EntityType> UpdateAsync(EntityType entity);
         Task DeleteAsync(EntityType entity);
+        Task DeleteRangeAsync(List<EntityType> entity);
     }
 }

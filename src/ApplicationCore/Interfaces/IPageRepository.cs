@@ -1,4 +1,4 @@
-﻿using ERCOFAS.ApplicationCore.Entities.Structure;
+﻿using ERCOFAS.ApplicationCore.Entities.Security;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -18,13 +18,7 @@ namespace ERCOFAS.ApplicationCore.Interfaces
         /// <returns></returns>
         Task<Page> GetById(int id);
         /// <summary>
-        /// Saves the page asynchronous.
-        /// </summary>
-        /// <param name="page">The page entity.</param>
-        /// <returns></returns>
-        Task<Page> Add(Page page);
-        /// <summary>
-        /// Updates the page asynchronous.
+        /// Updates the role asynchronous.
         /// </summary>
         /// <param name="page">The page entity.</param>
         /// <returns></returns>
