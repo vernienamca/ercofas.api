@@ -23,6 +23,8 @@ namespace ERCOFAS.Api.Infrastructure.Data
         public DbSet<UserStatus> UserStatus { get; set; }
         public DbSet<PreFilingRequest> PreFilingRequests { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Hearing> Hearings { get; set; }
+        public DbSet<HearingType> HearingTypes { get; set; }
 
         #endregion Variables
 
@@ -58,6 +60,8 @@ namespace ERCOFAS.Api.Infrastructure.Data
             builder.Entity<UserStatus>(ConfigureUserStatus);
             builder.Entity<PreFilingRequest>(ConfigurePreFilingRequest);
             builder.Entity<User>(ConfigureUser);
+            builder.Entity<Hearing>(ConfigureHearing);
+            builder.Entity<HearingType>(ConfigureHearingType);
         }
 
         #endregion Protected
@@ -408,6 +412,44 @@ namespace ERCOFAS.Api.Infrastructure.Data
                 .HasMaxLength(250)
                 .IsRequired(false);
 
+            builder.Property(x => x.CreatedBy).IsRequired(true);
+            builder.Property(x => x.DateCreated).IsRequired(true);
+            builder.Property(x => x.UpdatedBy).IsRequired(false);
+            builder.Property(x => x.DateUpdated).IsRequired(false);
+        }
+
+        private void ConfigureHearing(EntityTypeBuilder<Hearing> builder)
+        {
+            builder.ToTable("Hearing");
+
+            builder.HasKey(x => x.Id);
+            builder.Property(x => x.Id).UseIdentityColumn();
+            builder.Property(x => x.Description)
+                .HasMaxLength(150)
+                .IsRequired(false);
+     
+            builder.Property(x => x.HearingType).IsRequired(false);
+            builder.Property(x => x.Schedule).IsRequired(false);
+            builder.Property(x => x.MeetingLink)
+                .HasMaxLength(150).IsRequired(false);
+            builder.Property(x => x.CreatedBy).IsRequired(true);
+            builder.Property(x => x.DateCreated).IsRequired(true);
+            builder.Property(x => x.UpdatedBy).IsRequired(false);
+            builder.Property(x => x.DateUpdated).IsRequired(false);
+        }
+
+        private void ConfigureHearingType(EntityTypeBuilder<HearingType> builder)
+        {
+            builder.ToTable("HearingType");
+
+            builder.HasKey(x => x.Id);
+            builder.Property(x => x.Id).UseIdentityColumn();
+            builder.Property(x => x.Description)
+                .HasMaxLength(150)
+                .IsRequired(false);
+
+            builder.Property(x => x.Name)
+                .HasMaxLength(150).IsRequired(true);
             builder.Property(x => x.CreatedBy).IsRequired(true);
             builder.Property(x => x.DateCreated).IsRequired(true);
             builder.Property(x => x.UpdatedBy).IsRequired(false);

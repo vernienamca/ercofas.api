@@ -11,6 +11,7 @@ using ERCOFAS.Api.Infrastructure.Data;
 using ERCOFAS.ApplicationCore.Entities.Security;
 using ERCOFAS.ApplicationCore.Interfaces;
 using ERCOFAS.ApplicationCore.Services;
+using ERCOFAS.Infrastructure.Data;
 
 namespace ERCOFAS.Api
 {
@@ -65,6 +66,8 @@ namespace ERCOFAS.Api
             services.AddScoped(typeof(ICaseNatureRepository), typeof(CaseNatureRepository));
             services.AddScoped(typeof(ICaseTypeRepository), typeof(CaseTypeRepository));
             services.AddScoped(typeof(IPreFilingRequestRepository), typeof(PreFilingRequestRepository));
+            services.AddScoped(typeof(IHearingRepository), typeof(HearingRepository));
+            services.AddScoped(typeof(IHearingTypeRepository), typeof(HearingTypeRepository));
 
             services.AddScoped(typeof(ISettingsService), typeof(SettingsService));
             services.AddScoped(typeof(IRoleService), typeof(RoleService));
@@ -73,6 +76,9 @@ namespace ERCOFAS.Api
             services.AddScoped(typeof(IRERClassificationService), typeof(RERClassificationService));
             services.AddScoped(typeof(IDocumentsNeededService), typeof(DocumentsNeededService));
             services.AddScoped(typeof(IPreFilingRequestService), typeof(PreFilingRequestService));
+            services.AddScoped(typeof(IHearingService), typeof(HearingService));
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
