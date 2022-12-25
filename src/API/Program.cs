@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
+
 namespace ERCOFAS.Api
 {
     public class Program
@@ -16,5 +17,9 @@ namespace ERCOFAS.Api
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+
     }
+
 }
+

@@ -46,3 +46,13 @@ C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\Appl
 C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
 C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
 C:\Projects\ERCOFAS\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\mbbGheh\Source\Repos\vernienamca\ercofas.api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb

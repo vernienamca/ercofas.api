@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fb9c62bd-2aa4-48fb-9c9a-db4dacb481f2")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GHL System Philippines Inc.")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
